@@ -1,4 +1,4 @@
-Codebook
+#Codebook
 
 The data is available in the following files:
 
@@ -17,10 +17,10 @@ y_test.txt
 
 Column Descriptions for final results:
 
-subjectID
+*subjectID
 	Ranges between 1 and 30 to represent all subjects that were tested in the training and testing phase
 
-activityname
+*activityname
 	There are 6 activities performed by each subject
 		WALKING
 		WALKING_UPSTAIRS
