@@ -1,4 +1,3 @@
-# gettingcleaningdata_courseproject
 #This is a repo for the Getting and Cleaning Data Course Project
 
 One can use the run_analysis.R script to execute the instructions from the Course Project. All necessary files are also available in the repo.
