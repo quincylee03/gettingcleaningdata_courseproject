@@ -1,11 +1,17 @@
 Codebook
 
 The data is available in the following files:
+
 subject_train.txt
+
 X_train.txt
+
 y_train.txt
+
 subject_test.txt
+
 X_test.txt
+
 y_test.txt
 
 
