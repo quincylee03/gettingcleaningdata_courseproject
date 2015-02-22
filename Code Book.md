@@ -14,6 +14,8 @@ X_test.txt
 
 y_test.txt
 
+Most of the variables with time references are in seconds. The magnitude measure of the three-dimensional time signals were calculated using the Euclidean norm. More information can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 
 Column Descriptions for final results:
 
