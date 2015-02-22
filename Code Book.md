@@ -1,6 +1,15 @@
 Codebook
 
-Column Descriptions:
+The data is available in the following files:
+subject_train.txt
+X_train.txt
+y_train.txt
+subject_test.txt
+X_test.txt
+y_test.txt
+
+
+Column Descriptions for final results:
 
 subjectID
 	Ranges between 1 and 30 to represent all subjects that were tested in the training and testing phase
