@@ -129,6 +129,6 @@ library(reshape2)       # Open reshape2 pacakge
 tidyset<- melt(meansubset2, id=c("subjectID", "activityname"))  #Melt meansubset2 by subjectID and activityname to create tidyset
 result <- dcast(tidyset, subjectID + activityname ~ ..., mean) # Average each column by activityname and subjectID
 
-#Create text file "courseproject.txt" that has the results from #5. The file is saved to the working directory
+#Create text file "courseproject.txt" that has the results from #5. The file is saved to the working dir
 write.table(result,file= "courseproject.txt", row.names=FALSE )
 
